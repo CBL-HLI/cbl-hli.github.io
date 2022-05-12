@@ -268,3 +268,10 @@ h1::after {
     color:#fff;
     font-size:15px;
 }
+
+.profileimgs {
+    float: left;
+    width:  100px;
+    height: 100px;
+    object-fit: cover;
+}
